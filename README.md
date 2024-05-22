@@ -1,2 +1,2 @@
 # Systematic_Review
-Repo for conductiong systematic review of literature assessing the efffectiveness of Automated Speed Enforcement in Lower and Middle Income countries
+Repo for conductiong systematic review of literature assessing the efffectiveness of Automated Speed Enforcement in Lower and Middle Income countries. First step in conducting a review is a screening process which includes searching databases with specific keywords. Then the search result will be assessed for their eligibility and relevance to the study objectives. This repo is created as reference for data cleaning, title assessment and abstract assessment process during screening. 
